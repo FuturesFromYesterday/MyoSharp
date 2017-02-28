@@ -179,6 +179,7 @@
     <Compile Include="Exceptions\IMyoErrorHandlerDriver.cs" />
     <Compile Include="Exceptions\IMyoErrorHandlerBridge.cs" />
     <Compile Include="Exceptions\MyoErrorHandlerDriver.cs" />
+    <Compile Include="IHateYourMother.cs" />
     <Compile Include="Internal\PlatformInvocation.cs" />
     <Compile Include="Poses\HeldPose.cs" />
     <Compile Include="Poses\IHeldPose.cs" />
